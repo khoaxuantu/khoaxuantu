@@ -21,7 +21,7 @@
 ```Python
 Profile = {
     "Name": ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"],
-    "Nationality": ["Vietnam", "Việt Nam"]
+    "Nationality": ["Vietnam", "Việt Nam"],
     "Major": [Computer Science, Mechanical Engineering],
     "Major_detail": [
         "I initially chose ME in my freshman",
