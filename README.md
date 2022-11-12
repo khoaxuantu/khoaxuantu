@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VEzvhUTdejvdsItmbD/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200"/>
 </div>
 <!-- Social media -->
 <div align="center">
@@ -16,13 +16,13 @@
 </h1>
 
 <!-- About me -->
-<h1 align="left">:poop: About me</h1>
-<!-- ```
-- fdsafads
-``` -->
+<h2 align="left">:poop: About me</h2>
+```
+Thinking cool intro
+```
 <br>
 <!-- Tools -->
-<h1 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h2>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,c,py,flask,html,css,js,bootstrap,pytorch,sqlite,docker,heroku,gcp,firebase,git,github,githubactions,unity,linux,visualstudio,vscode,matlab,autocad">
@@ -32,9 +32,9 @@
 
 
 <!-- Github Stats -->
-<h1 align="left">
+<h2 align="left">
     :bar_chart: Github Stats
-</h1>
+</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=khoaxuantu&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="khoaxuantu">
     <img src="https://streak-stats.demolab.com?user=khoaxuantu&theme=github-dark-blue" alt="khoaxuantu">
