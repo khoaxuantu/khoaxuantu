@@ -56,6 +56,6 @@ Profile = {
     <img src="https://streak-stats.demolab.com?user=khoaxuantu&theme=github-dark-blue" alt="khoaxuantu">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoaxuantu&layout=compact&include_all_commits=true&theme=github_dark" alt="khoaxuantu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoaxuantu&layout=compact&include_all_commits=true&theme=github_dark&count_private=true" alt="khoaxuantu">
 </div>
 <br>
