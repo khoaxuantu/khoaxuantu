@@ -3,7 +3,7 @@
 </div>
 <!-- Social media -->
 <div align="center">
-
+    🇻🇳
 </div>
 <!-- https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif -->
 <!-- https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif -->
@@ -20,12 +20,19 @@
 
 ```Python
 Profile = {
-    "Name": {
-        ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"]
-    },
-    "Major": {
-        "Name": ?
-    }
+    "Name": ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"],
+    "Nationality": ["Vietnam", "Việt Nam"]
+    "Major": [Computer Science, Mechanical Engineering],
+    "Major_detail": [
+        "I initially chose ME in my freshman",
+        "Since my sophomore, I had started self-studying CS and would love to develop further in this major",
+        "My studying in information technology currently has been > 2.5 years"
+    ],
+    "Current_focused_fields": [Algorithms & Data Structure, Frontend, Backend, Cloud Services],
+    "University": "NTUST",
+    "College": "College of Engineering",
+    "Program": "International Advanced Technology Program",
+    "Degree": "Bachelor of Science"
 }
 ```
 
