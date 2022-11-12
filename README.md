@@ -17,9 +17,18 @@
 
 <!-- About me -->
 <h2 align="left">:poop: About me</h2>
+
+```Python
+Profile = {
+    "Name": {
+        ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"]
+    },
+    "Major": {
+        "Name": ?
+    }
+}
 ```
-Thinking cool intro
-```
+
 <br>
 <!-- Tools -->
 <h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h2>
