@@ -59,3 +59,7 @@ Profile = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoaxuantu&layout=compact&include_all_commits=true&theme=github_dark&count_private=true" alt="khoaxuantu">
 </div>
 <br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khoaxuantu">
+</div>
