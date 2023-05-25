@@ -63,6 +63,6 @@ Profile = {
 <div align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=khoaxuantu"> -->
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=khoaxuantu&label=Profile%20Views&color=6&icon=5&pretty=false" />
+    <img src="https://visitcount.itsvg.in/api?id=khoaxuantu&label=Profile%20Views&color=1&icon=5&pretty=false" />
   </a>
 </div>
