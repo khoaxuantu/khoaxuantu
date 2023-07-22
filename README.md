@@ -32,7 +32,9 @@ Profile = {
     "University": "NTUST",
     "College": "College of Engineering",
     "Program": "International Advanced Technology Program",
-    "Degree": "Bachelor of Science"
+    "Degree": "Bachelor of Science",
+    "Occupation": "Software Engineer - Fullstack Web Developer",
+    "Company": "Pixta"
 }
 ```
 
