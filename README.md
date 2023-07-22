@@ -26,7 +26,7 @@ Profile = {
     "Major_detail": [
         "I initially chose ME in my freshman",
         "Since my sophomore, I had started self-studying CS and would love to develop further in this major",
-        "My studying in information technology currently has been > 2.5 years"
+        "My studying in information technology currently has been > 3 years"
     ],
     "Current_focused_fields": [Algorithms & Data Structure, Frontend, Backend, Cloud Services],
     "University": "NTUST",
