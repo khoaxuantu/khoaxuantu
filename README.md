@@ -54,11 +54,11 @@ Profile = {
     :bar_chart: Github Stats
 </h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khoaxuantu&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="khoaxuantu">
-    <img src="https://streak-stats.demolab.com?user=khoaxuantu&theme=github-dark-blue" alt="khoaxuantu">
+    <img src="https://raw.githubusercontent.com/khoaxuantu/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="khoaxuantu">
+    <img src="https://raw.githubusercontent.com/khoaxuantu/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="khoaxuantu">
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoaxuantu&layout=compact&include_all_commits=true&theme=github_dark&count_private=true" alt="khoaxuantu">
+    <img src="https://streak-stats.demolab.com?user=khoaxuantu&theme=github-dark-blue" alt="khoaxuantu">
 </div>
 <br>
 
