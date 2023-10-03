@@ -43,7 +43,7 @@ Profile = {
 <h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,ruby,rails,cpp,c,py,flask,django,html,css,bootstrap,postgres,sqlite,docker,heroku,gcp,firebase,git,github,githubactions,unity,linux,visualstudio,vscode,matlab,autocad,arduino">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,ruby,rails,cpp,c,py,flask,django,html,css,sass,bootstrap,postgres,sqlite,docker,aws,gcp,firebase,git,github,githubactions,unity,linux,visualstudio,vscode,matlab,autocad,arduino">
     </a>
 </div>
 <br>
