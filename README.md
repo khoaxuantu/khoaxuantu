@@ -59,6 +59,10 @@ Profile = {
 </div>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=khoaxuantu&theme=github-dark-blue" alt="khoaxuantu">
+    <br><br>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=khoaxuantu&theme=onedark&rank=-C&column=7" alt="khoaxuantu">
+    </a>
 </div>
 <br>
 
