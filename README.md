@@ -18,17 +18,17 @@
 <!-- About me -->
 <h2 align="left">:poop: About me</h2>
 
-```Python
-Profile = {
+```json
+{
     "Names": ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"],
     "Nationality": ["Vietnam", "Việt Nam"],
-    "Majors": [ComputerScience, MechanicalEngineering],
+    "Majors": ["Computer Science", "Mechanical Engineering"],
     "Major_detail": [
         "I initially chose ME in my freshman",
         "Since my sophomore, I had started self-studying CS and would love to develop further in this major",
         "My studying in information technology currently has been > 3 years"
     ],
-    "Current_focused_fields": [AlgorithmsAndDataStructure, WebDevelopment, CloudServices],
+    "Current_focused_fields": ["Algorithms & Data Structure", "Web Development", "Cloud Services"],
     "University": "NTUST",
     "College": "College of Engineering",
     "Program": "International Advanced Technology Program",
@@ -66,6 +66,10 @@ Profile = {
 </div>
 <br>
 
+## 🧐 Alternatives
+- My working Github account: [xuankhoatu](https://github.com/khoaxuantu-pixta)
+
+<br>
 <div align="center">
 <!--   <img src="https://komarev.com/ghpvc/?username=khoaxuantu"> -->
   <a href="https://visitcount.itsvg.in">
