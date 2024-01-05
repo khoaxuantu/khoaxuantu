@@ -53,7 +53,6 @@
 </div>
 <br>
 
-
 <!-- Github Stats -->
 <h2 align="left">
     :bar_chart: Github Stats
@@ -68,6 +67,15 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=khoaxuantu&theme=onedark&rank=-C&column=7" alt="khoaxuantu">
     </a>
+</div>
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 <br>
 
