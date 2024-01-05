@@ -39,6 +39,11 @@
 ```
 
 <br>
+<div align="center">
+  <a href="https://app.daily.dev/khoaxuantu"><img src="https://api.daily.dev/devcards/5d09270cfd314f15b2570056d4f50af1.png?r=njf" width="280" alt="Xuan Khoa Tu Nguyen's Dev Card"/></a>
+</div>
+
+<br>
 <!-- Tools -->
 <h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h2>
 <div align="center">
