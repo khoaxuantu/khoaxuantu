@@ -27,7 +27,7 @@
         "I initially chose ME in my freshman",
         "Since my sophomore in 2020, I had started self-studying CS and would love to develop further in this major"
     ],
-    "Current_focused_fields": ["Web Development", "System Design & Cloud Services", "Algorithms & Data Structure", ],
+    "Current_focused_fields": ["Web Development", "System Design & Cloud Services", "Algorithms & Data Structure" ],
     "University": "NTUST",
     "College": "College of Engineering",
     "Program": "International Advanced Technology Program",
