@@ -25,10 +25,9 @@
     "Majors": ["Computer Science", "Mechanical Engineering"],
     "Major_detail": [
         "I initially chose ME in my freshman",
-        "Since my sophomore, I had started self-studying CS and would love to develop further in this major",
-        "My studying in information technology currently has been > 3 years"
+        "Since my sophomore in 2020, I had started self-studying CS and would love to develop further in this major"
     ],
-    "Current_focused_fields": ["Algorithms & Data Structure", "Web Development", "Cloud Services"],
+    "Current_focused_fields": ["Web Development", "System Design & Cloud Services", "Algorithms & Data Structure", ],
     "University": "NTUST",
     "College": "College of Engineering",
     "Program": "International Advanced Technology Program",
