@@ -80,11 +80,3 @@
 
 ## 🧐 Alternatives
 - My working Github account: [xuankhoatu](https://github.com/khoaxuantu-pixta)
-
-<br>
-<div align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=khoaxuantu"> -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=khoaxuantu&label=Profile%20Views&color=1&icon=5&pretty=false" />
-  </a>
-</div>
