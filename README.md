@@ -15,25 +15,32 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Tu+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
+<section align="center">
+  <a href="https://xuankhoatu.com/about">
+    <img src="https://img.shields.io/badge/Website-gray" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=khoaxuantu" />
+</section>
+
 <!-- About me -->
 <h2 align="left">:poop: About me</h2>
 
 ```json
 {
-    "Names": ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"],
-    "Nationality": ["Vietnam", "Việt Nam"],
-    "Majors": ["Computer Science", "Mechanical Engineering"],
-    "Major_detail": [
+    "names": ["Tu", "Xuan Khoa Tu Nguyen", "阮春科秀", "Nguyễn Xuân Khoa Tú"],
+    "nationality": ["Vietnam", "Việt Nam"],
+    "majors": ["Computer Science", "Mechanical Engineering"],
+    "major_detail": [
         "I initially chose ME in my freshman",
         "Since my sophomore in 2020, I had started self-studying CS and would love to develop further in this major"
     ],
-    "Current_focused_fields": ["Web Development", "System Design & Cloud Services", "Algorithms & Data Structure" ],
-    "University": "National Taiwan University of Science and Technology (NTUST)",
-    "College": "College of Engineering",
-    "Program": "International Advanced Technology Program",
-    "Degree": "Bachelor of Science",
-    "Occupation": "Software Engineer - Fullstack Web Developer",
-    "Company": "Pixta"
+    "current_focused_fields": ["Web Development", "System Design & Cloud Services", "Algorithms & Data Structure" ],
+    "university": "National Taiwan University of Science and Technology (NTUST)",
+    "college": "College of Engineering",
+    "program": "International Advanced Technology Program",
+    "degree": "Bachelor of Science",
+    "occupation": "Software Engineer - Fullstack Web Developer",
+    "company": "Pixta"
 }
 ```
 
