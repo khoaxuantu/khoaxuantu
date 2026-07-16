@@ -40,7 +40,7 @@
     "program": "International Advanced Technology Program",
     "degree": "Bachelor of Science",
     "occupation": "Software Engineer - Fullstack Web Developer",
-    "company": "Pixta"
+    "company": "FPT Software"
 }
 ```
 
